@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. VALEA LUPULUI, NR.1 |
 | Website | [https://www.antibiotice.ro](https://www.antibiotice.ro) |
 | Careers | [https://www.antibiotice.ro/cariere/open-position/](https://www.antibiotice.ro/cariere/open-position/) |
-| Last Scraped | 2026-11-09 |
+| Last Scraped | 2026-11-10 |
 
 ## Current Job Listings (7)
 
-_Generated: 2026-11-09T15:40:44.149Z_
+_Generated: 2026-11-10T14:35:02.986Z_
 
 ### Electrician
 
