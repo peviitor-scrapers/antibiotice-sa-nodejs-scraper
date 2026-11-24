@@ -10,29 +10,15 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. VALEA LUPULUI, NR.1 |
 | Website | [https://www.antibiotice.ro](https://www.antibiotice.ro) |
 | Careers | [https://www.antibiotice.ro/cariere/open-position/](https://www.antibiotice.ro/cariere/open-position/) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (7)
+## Current Job Listings (5)
 
-_Generated: 2026-11-23T17:42:39.948Z_
+_Generated: 2026-11-24T17:14:34.864Z_
 
 ### Electrician
 
 - **URL:** [https://www.antibiotice.ro/joburi/electrician/](https://www.antibiotice.ro/joburi/electrician/)
-- **Work Mode:** on-site
-- **Location:** Iași
-- **Status:** scraped
-
-### Manager Medical – Produse veterinare
-
-- **URL:** [https://www.antibiotice.ro/joburi/manager-medical-produse-veterinare/](https://www.antibiotice.ro/joburi/manager-medical-produse-veterinare/)
-- **Work Mode:** on-site
-- **Location:** Iași
-- **Status:** scraped
-
-### Key Account Manager – Vânzări Distribuitori
-
-- **URL:** [https://www.antibiotice.ro/joburi/key-account-manager-vanzari-distribuitori/](https://www.antibiotice.ro/joburi/key-account-manager-vanzari-distribuitori/)
 - **Work Mode:** on-site
 - **Location:** Iași
 - **Status:** scraped
